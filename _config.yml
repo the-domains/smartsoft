@@ -1,0 +1,28 @@
+name: SmartSoft
+favicon: null
+layout_spectrum: 0.2725383508950472
+typography_spectrum: 0.8694715138990432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4578825843054801
+  lightness: 0.6440196030307561
+  saturation: 0.6704707916360348
+  rhythmicContrast: 0.49764558346942067
+purpose: []
