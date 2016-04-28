@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'There are far too many Oracle 11g new features for all of them to be covered in depth even if we were to write a book on them), so this is just a bird’s eye view of a few of the enhancements and new features along with links to more information in the following areas: '
-datePublished: '2016-04-28T16:50:31.009Z'
-dateModified: '2016-04-28T16:50:05.291Z'
+datePublished: '2016-04-28T16:55:42.095Z'
+dateModified: '2016-04-28T16:54:51.328Z'
 title: ''
 author: []
 authors: []
@@ -35,9 +35,7 @@ There are far too many Oracle 11g new features for all of them to be covered in 
 
 ## Oracle 11g Performance enhancements
 
-Performance enhancements worth mentioning include those made to SecureFiles (the large objects (LOB) infrastructure), the new results cache for SQL and 
-
-## PL/SQL and PL/SQL native compilation.
+Performance enhancements worth mentioning include those made to SecureFiles (the large objects (LOB) infrastructure), the new results cache for SQL and PL/SQL and PL/SQL native compilation. 
 
 ### Oracle SecureFiles enhancements
 
@@ -69,7 +67,7 @@ The database replay feature also includes reporting to highlight potential issue
 
 Oracle 11g makes grid computing easy and straight forward with the enhancements to ADDM and ASM.
 
-### ASM (Automatic Storage Management) enhancements
+## ASM (Automatic Storage Management) enhancements
 
 •a fast mirror resync when a failed disk is brought back online
 
@@ -117,9 +115,7 @@ technologies on or off site in cities across the UK as well as self-study
 
 See our scheduled [Oracle training courses,][5]
 
-or [let us know your requirements][6]
-
-.Oracle tips and tricks 
+or [let us know your requirements .Oracle tips and tricks ][6]
 
 [Subscribe to our newsletter, ][7]
 
