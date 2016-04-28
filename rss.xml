@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SmartSoft]]></title>
         <description><![CDATA[SmartSoft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/smartsoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 16:50:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 16:55:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/smartsoft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oracle 11g New Features Overview]]></title>
             <description><![CDATA[<p>There are far too many Oracle 11g new features for all of them to be covered in depth even if we were to write a book on them), so this is just a bird’s eye view of a few of the enhancements and new features along with links to more information in the following areas: </p>]]></description>
-            <link>undefinedoracle-11g-new-features-overview/index.html</link>
+            <link>https://thegrid.ai/smartsoft/oracle-11g-new-features-overview/index.html</link>
             <guid isPermaLink="false">6916fed9-62f1-4a42-ac5f-f9028d24116a</guid>
-            <pubDate>Thu, 28 Apr 2016 16:50:31 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 16:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
